@@ -28,11 +28,21 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
   },
-  "author": "",
-  "homepage": "",
-  "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoynick/react-d.git"
+  },
   "keywords": [
-    "react-component"
-  ]
+    "div",
+    "react-component",
+    "react-d",
+    "react-div",
+    "react"
+  ],
+  "author": "Yannick Miñano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leoynick/react-d/issues"
+  },
+  "homepage": "https://github.com/leoynick/react-d#readme"
 }
